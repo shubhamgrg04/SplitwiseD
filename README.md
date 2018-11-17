@@ -40,12 +40,7 @@ MIT
 **Free open-source software**
 
 # Authors
-- Yash Jain
 - Shubham Garg
-- Ankit Shah
-- Gaurav Singhal
-- Ajit Kumar
-- Yashashav DK
 
 
 
